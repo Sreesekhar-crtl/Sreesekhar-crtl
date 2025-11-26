@@ -5,7 +5,7 @@
 📊 **Interests:** Data Analysis, Machine Learning, Dashboards, Automation  
 🌱 **Currently Learning:** Power BI, Cloud (AWS), Advanced SQL  
 📫 **Reach me at:** sreesekhar87@gmail.com  
-🔗 **LinkedIn:** linkedin.com/in/sri-sekhar  
+🔗 **LinkedIn:** www.linkedin.com/in/sri-sekhar
 
 ---
 
