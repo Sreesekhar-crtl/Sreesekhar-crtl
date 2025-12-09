@@ -36,7 +36,7 @@
 - Sales forecasting  
 - Interactive visualization  
 
-### **4. Avocado Sales Analysis – Python**
+### **4. Netflix movie data Analysis – Python**
 - Exploratory data analysis  
 - Trend discovery  
 - Automated reporting  
