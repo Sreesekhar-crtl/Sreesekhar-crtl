@@ -31,7 +31,7 @@
 - Achieved high classification accuracy  
 - Used for arrhythmia detection research  
 
-### **3. Sales Dashboard – Tableau / Power BI**
+### **3. Sales Dashboard – Tableau**
 - KPI tracking  
 - Sales forecasting  
 - Interactive visualization  
