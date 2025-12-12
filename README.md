@@ -61,7 +61,7 @@ Cleaned and transformed the dataset to improve data quality by 30%, engineered c
 Identified key business insights such as profit variations of up to 40% across segments and a sales fluctuation of more than 25% between months. 
 Delivered a fully interactive, management-ready dashboard enabling country-level, product-level, and segment-level performance comparisons.  
 
-### **Property Market Data Cleaning & Exploratory Analysis Using R**
+### **5. Property Market Data Cleaning & Exploratory Analysis Using R**
 This project performs end-to-end data cleaning, transformation, feature engineering, and visualization on large-scale property transaction datasets using R and RStudio. The analysis focuses on improving data quality, handling missing values and outliers, and uncovering pricing and sales trends across Irish counties through reproducible R workflows.
 
 
