@@ -61,6 +61,11 @@ Cleaned and transformed the dataset to improve data quality by 30%, engineered c
 Identified key business insights such as profit variations of up to 40% across segments and a sales fluctuation of more than 25% between months. 
 Delivered a fully interactive, management-ready dashboard enabling country-level, product-level, and segment-level performance comparisons.  
 
+### **5. ECG Signal Classifiaction using Deep Learning**
+Processed and analyzed 109,446 ECG signals (87,554 training + 21,892 testing samples), each with 188 features, ensuring 100% completeness with zero missing values and addressing class imbalance where Class 0 represented 82.8% of data. 
+Built a 1D-CNN model with three Conv1D layers (32, 64, 128 filters), MaxPooling, and fully connected layers (512 & 1024 neurons), achieving 98.98% training accuracy and 96.4% test accuracy across 5 ECG heartbeat classes. 
+Improved minority-class performance by applying undersampling and achieved strong classification metrics, including 0.96 weighted F1-score, 0.97–0.99 precision, and 0.96 recall, enabling high-quality arrhythmia detection for 21,892 test instances
+
 ---
 
 ## 🚀 About Me  
