@@ -1,5 +1,6 @@
 # Hi, I'm Yanikepalli Sri Sekhar 👋  
 *MSc Data Analytics • Junior Data Analyst • Python | SQL |R| Excel| ML | AWS*
+
 📊 **Interests:** Data Analysis, Machine Learning, Dashboards, Automation  
 🌱 **Currently Learning:** Power BI  
 📫 **Reach me at:** sreesekhar87@gmail.com  
